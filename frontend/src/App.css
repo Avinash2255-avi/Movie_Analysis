@@ -1,6 +1,5 @@
 /* Full-page background */
 .app-container {
-  background: url("C:\Users\user\sentiment-app\frontend\src\Gemini_Generated_Image_fntlpefntlpefntl.png") no-repeat center center fixed;
   background-size: cover;
   height: 100vh;
   display: flex;
